@@ -16,7 +16,7 @@ public class RayInteract : MonoBehaviour
 
         if(Physics.Raycast(origin, direction, out hit, range))
         {
-            if(hit.collider.tag == "grabObject")
+            if(hit.collider.tag == "grabObject" && !WhatInArm3D)
             {
                 //Debug.Log("Hit: " + hit.collider.name);
                 InteractText.SetActive(true);
