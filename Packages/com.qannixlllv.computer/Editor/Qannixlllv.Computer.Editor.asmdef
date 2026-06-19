@@ -1,0 +1,10 @@
+{
+    "name": "Qannixlllv.Computer.Editor",
+    "references": [
+      "Qannixlllv.Computer"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

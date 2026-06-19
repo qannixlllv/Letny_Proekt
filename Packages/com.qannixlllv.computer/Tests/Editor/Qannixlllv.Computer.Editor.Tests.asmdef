@@ -1,0 +1,14 @@
+{
+    "name": "Qannixlllv.Computer.Editor.Tests",
+    "references": [
+        "Qannixlllv.Computer.Editor",
+        "Qannixlllv.Computer"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

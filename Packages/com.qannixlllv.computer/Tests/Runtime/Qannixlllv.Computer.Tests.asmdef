@@ -1,0 +1,11 @@
+{
+    "name": "Qannixlllv.Computer.Tests",
+    "references": [
+        "Qannixlllv.Computer"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
